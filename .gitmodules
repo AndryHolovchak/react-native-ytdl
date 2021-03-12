@@ -1,0 +1,5 @@
+[submodule "lib/__REACT_NATIVE_YTDL_CUSTOM_MODULES__/urllib"] 
+  path = lib/__REACT_NATIVE_YTDL_CUSTOM_MODULES__/urllib
+  url = https://github.com/node-modules/urllib.git
+
+  
