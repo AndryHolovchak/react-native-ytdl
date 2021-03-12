@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndryHolovchak/react-native-ytdl"
+    "url": "https://github.com/AndryHolovchak/react-native-ytdl.git"
   },
   "keywords": [
     "react",
